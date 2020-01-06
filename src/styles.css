@@ -59,7 +59,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-  color: #3d85c6;
+  color: #87bdd8;
   text-decoration: none;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -78,7 +78,7 @@ a:active {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #3d85c0;
+  color: #cfe0e8;
 }
 
 p {
@@ -166,7 +166,7 @@ button:focus,
   flex: 1 0 0;
   position: relative;
   background: rgba(24, 26, 27, 0.8);
-  border-right: 1px solid #eaeaea;
+  border-right: 1px solid #87bdd8
 }
 
 .right-col-block {
@@ -224,7 +224,7 @@ button:focus,
  *-------------------*/
 .section-wrapper {
   padding: 25px 50px 25px 50px;
-  border-bottom: 1px solid #eaeaea;
+  border-bottom: 1px solid #87bdd8
 }
 
 @media (max-width: 480px) {
